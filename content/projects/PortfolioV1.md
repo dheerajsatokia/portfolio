@@ -1,8 +1,8 @@
 ---
 date: '2020-04-21'
 title: 'Portfolio Version 1'
-github: 'https://github.com/chandrikadeb7/chandrikadeb7.github.io-v1'
-external: 'https://chandrikadeb7.github.io/chandrikadeb7.github.io-v1/'
+github: 'https://github.com/dheerajsatokia/dheeerajsatokia.github.io'
+external: 'https://dheerajsatokia.com'
 tech:
   - HTML
   - CSS

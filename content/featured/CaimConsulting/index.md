@@ -1,16 +1,15 @@
 ---
 date: '1'
-title: 'Caim Consulting'
-cover: 'demo1.png'
-github: 'https://github.com/caimconsulting/caim-consulting-website'
-external: 'https://caimconsulting.in/'
+title: 'Betrics'
+cover: 'betrics.png'
+github: 'https://github.com/dheerajsatokia'
+external: 'https://betrics.io/'
 tech:
-  - HTML
-  - CSS
-  - Javascript
-  - Bootstrap
+  - Python
+  - Django REST
+  - Reactjs
 
 showInProjects: true
 ---
 
-Collaborated with the [Developer Team](https://caimconsulting.in/developers/?) to develop the front-end and deploy the website on Heroku for a pro-bono legal startup [Caim Consulting](https://caimconsulting.in/).
+Web application which process the sports trends sing third party Sportsradar API, SportsRadar API

@@ -1,14 +1,14 @@
 ---
 date: '2020-06-03'
-title: 'Random Project Idea Generator'
-github: 'https://github.com/chandrikadeb7/Random-ProjectIdeaGenerator'
+title: 'OrangeTrack'
+github: 'https://github.com/dheerajsatokia/OrangeTrack'
 external: ''
 tech:
-  - Kotlin
-  - Android Studio
-  - unDraw
+  - Python
+  - Django
+  - JavaScript
 company: ''
 showInProjects: true
 ---
 
-This project was developed as part of Google's [#30DaysOfKotlin](https://eventsonair.withgoogle.com/events/kotlin) program
+Inventory and Material management tool for tracking Inventory and assents involved in building construction.

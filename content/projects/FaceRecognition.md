@@ -1,15 +1,13 @@
 ---
 date: '2019-12-12'
-title: 'Face Recognition in Python'
-github: 'https://github.com/chandrikadeb7/Face-Recognition-in-Python'
-external: ''
+title: 'Covid HealthCare Management'
+github: 'https://github.com/dheerajsatokia/CovidHealthManagment'
+external: 'https://yourhelpinghands.in/'
 tech:
   - Python
-  - OpenCV
-  - Pillow
-  - NumPy
+  - Django
 company: ''
 showInProjects: true
 ---
 
-A real time face recognition system developed in Python using Pillow, OpenCV and NumPy libraries
+Web application intended to managee the near by covid hospitals and Plasma donors.

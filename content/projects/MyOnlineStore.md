@@ -1,15 +1,16 @@
 ---
 date: '2019-05-31'
-title: 'My Online Store'
+title: 'Calendso'
 github: 'https://github.com/chandrikadeb7/MyOnlineStore'
-external: ''
+external: 'https://cal.com/'
 tech:
-  - PHP
-  - MySQL
+  - JavaScript
+  - TypeScript
+  - NextJS
   - HTML
   - CSS
-company: 'CCL'
+company: ''
 showInProjects: true
 ---
 
-My first PHP project on dynamic eCommerce website development.
+Calendar management tool for scheduling meetings without back-and-forth emails so user can get back to work.

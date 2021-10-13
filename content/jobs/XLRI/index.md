@@ -1,12 +1,11 @@
 ---
 date: '2018-05-10'
-title: 'Research Intern'
-company: 'XLRI'
-range: 'May - June 2018'
-url: 'https://www.xlri.ac.in/'
+title: 'Backend Developer'
+company: 'Betrics'
+range: 'Feb 2021 - Present'
+url: 'https://betrics.io/'
 ---
 
-- Meta analysis and a literature review on the topics 'Knowledge Hiding', 'Ethical Leadership', 'Ethical Culture', 'Ethical Climate' and 'Unethical Behaviour'.
-- Maintained the data in MS Excel and represented the trend via R programming.
-- Work done under Prof. Jatinder Kr. Jha of HR department of XLRI.
-- View [CERTIFICATE](https://drive.google.com/file/d/1RlOPvA1EmE24aQMWeSiXbB3N36CUizXA/view?usp=sharing)
+- Lead to team to develop Android, iOS, and web platforms from an abstract requirement document with a strict deadline.
+- Used different aws services to improve platform speed and stability.
+- Developed a library to fetch data from different sources and aggregate it to be usabe which helped users to make better decisions.

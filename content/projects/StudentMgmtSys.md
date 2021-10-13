@@ -1,13 +1,13 @@
 ---
 date: '2019-04-30'
-title: 'Student Management System'
-github: 'https://github.com/chandrikadeb7/StudentManagementSystem'
+title: 'Back Trader'
+github: 'https://github.com/dheerajsatokia/backtrader'
 external: ''
 tech:
-  - Java
-  - Sqlite
+  - Python
+  - Django
 company: ''
 showInProjects: true
 ---
 
-Java Swing based project with MySQL database developed using Netbeans IDE
+Tool for analysing share market trade data and trends.

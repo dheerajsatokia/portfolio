@@ -1,16 +1,14 @@
 ---
 date: '2020-09-16'
-title: '100DaysOfCode'
-github: 'https://github.com/chandrikadeb7/100DaysOfCode'
+title: 'BioCare'
+github: 'https://github.com/dheerajsatokia/biocare'
 external: ''
 tech:
-  - Kotlin/Java
-  - Spring Microservices
-  - Javascript
-  - CSS
   - Python
+  - Django
+  - Django REST
 company: ''
 showInProjects: true
 ---
 
-Repository dedicated to my #100DaysOfCode journey
+Hospital management system, to manage the transactional flows between different hospital departments.
