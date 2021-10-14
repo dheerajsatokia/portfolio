@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://dheerajsatokia.github.io/sitemap/sitemap-index.xml
+Sitemap: https://dheerajsatokia.github.io/portfolio/sitemap/sitemap-index.xml
 Host: https://dheerajsatokia.github.io
