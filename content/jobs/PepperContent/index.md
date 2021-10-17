@@ -11,4 +11,3 @@ url: 'https://cubexo.io'
 - Learned various technologies on the go and managed teams working in different technologies and domains.
 - Developed simple solutions for complex problems to achieve the solution with highest quality.
 - Engaged with clients understanding requirements, building strong relations and working with them on behalf of the company.
-- Experience in troubleshooting and debugging issues under high load in the production environment.

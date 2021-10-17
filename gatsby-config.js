@@ -7,7 +7,6 @@ module.exports = {
     description: config.siteDescription,
     image: '/images/og.png',
   },
-  pathPrefix: '/portfolio',
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-styled-components`,

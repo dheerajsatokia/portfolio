@@ -3,7 +3,7 @@ date: '2020-07-15'
 title: 'Python Developer'
 company: 'Deviare Africa'
 range: 'Feb 2021 - present'
-url: 'https://www.ismiletechnologies.com/'
+url: 'https://deviare.africa'
 ---
 
 - Developed an end to end learning management system for companies to distribute courses from coursera, simplilearn without any hassle.

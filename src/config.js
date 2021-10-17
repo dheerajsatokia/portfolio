@@ -4,7 +4,7 @@ module.exports = {
     'Dheeraj Satokia is a Software Engineer at Cubexo Software Solutions, who loves learning new things and helping tech beginners.',
   siteKeywords:
     'Dheeraj Satokia, Dheeraj, staokia, dheerajsatokia, software engineer, 30mins, betrics, Python developer, Python, Django, Indore, cubexo, bit, mesra, deoghar',
-  siteUrl: 'https://dheerajsatokia.github.io/',
+  siteUrl: 'https://dheerajsatokia.github.io/portfolio',
   siteLanguage: 'en_US',
   // googleAnalyticsID: 'UA-45666519-2',
   // googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
